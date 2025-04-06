@@ -42,7 +42,7 @@ Live result:
 
 ### Atributos globales
 
-- [Core attributes](/es/docs/Web/SVG/Attribute#core) »
+- [Core attributes](/es/docs/Web/SVG/Reference/Attribute#core) »
 
 ### Atributos específicos
 
